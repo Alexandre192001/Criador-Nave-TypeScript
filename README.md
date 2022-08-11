@@ -1,16 +1,11 @@
-<h1>Criador-Nave-TypeScript</h1>
+<h1>Criador-Nave - TypeScript</h1>
 <hr>
 <h2>Linguagens Utilizadas:</h2>
 
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img> 
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></img>
- 
- 
 </div>
-
-
-
 <hr>
 <h2>⚜️Descrição⚜️</h2>
 <p>Aplicação desenvolvida com TypeScript, em que nela é possível adicionar nave, piloto entre outras coisas. Podemos também enviar ela para uma missão e ver quantas naves temos em nossa aplicação </p>
