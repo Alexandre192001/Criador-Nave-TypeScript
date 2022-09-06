@@ -1,4 +1,4 @@
-<h1>Criador-Nave - TypeScript</h1>
+<h1>Criador de Nave - TypeScript</h1>
 <hr>
 <h2>Linguagens Utilizadas:</h2>
 
